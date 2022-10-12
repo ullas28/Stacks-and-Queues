@@ -15,5 +15,13 @@ public class MainStack {
 
         mystack.PrintStack();
 
+        mystack.peek();
+
+        mystack.PrintStack();
+
+        mystack.pop();//removing till its empty
+
+        mystack.PrintStack();
+
     }
 }
